@@ -1,0 +1,3 @@
+printf（“zhenzao”）；
+printf（“is”）；
+printf（“handsome”）；
